@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "mosquitto",
+			"path": "."
+		},
+		{
+			"name": "test",
+			"path": "../test"
+		}
+	],
+	"settings": {}
+}
